@@ -1,0 +1,51 @@
+nombre,bandera,partido,localidad,direccion,latitud,longitud,precio_super,precio_premium,fecha,valor,categoria,categoria_premium
+Lfs Combustibles S.A,GULF,San Fernando,San Fernando,Hipolito Yrigoyen 2015,-34.447065,-58.562084,2094.0,2379.0,2026-10,2094.0,Barata,Barata
+Ecological Tiger S.A.,SHELL,San Fernando,Virreyes,Av. Avellaneda 3186 Y Suipacha 2114,-34.458244,-58.566973,2169.0,2439.0,2026-05,2169.0,Barata,Barata
+Pampa Pozo S.A.,PUMA,San Fernando,San Fernando,H Yrigoyen 2779 San Fernando,-34.45025,-58.569536,2182.0,2451.0,2026-10,2182.0,Barata,Barata
+Pampa Pozo S.A.,PUMA,San Fernando,San Fernando,H. Yrigoyen 3636 San Fernando,-34.453383,-58.576043,2182.0,2451.0,2026-10,2182.0,Barata,Barata
+Millas 14 S.A.,PUMA,San Fernando,Victoria,Carlos Casares 3795,-34.464955,-58.568842,2201.0,2480.0,2026-09,2201.0,Precio medio,Barata
+Asamir S.A.,SHELL,San Fernando,Victoria,Uruguay 3517,-34.467845,-58.559811,2232.0,2520.0,2026-09,2232.0,Cara,Cara
+Deheza S.A.I.C.Fi.,SHELL,San Fernando,San Fernando,Acceso Norte R Tigre Km 26.4,-34.44852,-58.57654,2232.0,2520.0,2026-09,2232.0,Cara,Cara
+Silfa Sa,SHELL,San Fernando,San Fernando,Av Pte Peron 3102,-34.452818,-58.538881,2232.0,2520.0,2026-09,2232.0,Cara,Cara
+Dual Norte S.R.L.,DAPSA,San Isidro,Villa Adelina,Av. Fondo De La Legua 2591,-34.511313,-58.532734,2101.0,2301.0,2026-10,2101.0,Barata,Barata
+Global Mamagment S.A,SHELL,San Isidro,Martinez,Av.Fondo De La Legua 1381 Y Colectora,-34.50281,-58.53977,2159.0,2455.0,2026-07,2159.0,Barata,Barata
+Refineria Bahia Blanca S.A.U.,PUMA,San Isidro,San Isidro,Fondo De La Legua 791,-34.49912,-58.54305,2180.0,2448.0,2026-10,2180.0,Barata,Barata
+Refineria Bahia Blanca S.A.U.,PUMA,San Isidro,San Isidro,Uruguay 5190 Y Blanco Encalada 2683 0,-34.475557,-58.574679,2180.0,2448.0,2026-10,2180.0,Barata,Barata
+"Pan American Energy Llc, Sucursal Argentina",AXION,San Isidro,San Isidro,Av. Avelino Rolón 29 (Esq. Blanco Encalada),-34.49434,-58.55147,2199.0,2499.0,2026-09,2199.0,Precio medio,Precio medio
+"Pan American Energy Llc, Sucursal Argentina",AXION,San Isidro,Boulogne,Av. Avelino Rolon 603 (Esq. V. Vergara),-34.49738,-58.55561,2199.0,2499.0,2026-09,2199.0,Precio medio,Precio medio
+Anjor S.A.,SHELL,San Isidro,San Isidro,Avenida Del Libertador 14016,-34.482588,-58.490708,2219.0,2509.0,2026-10,2219.0,Precio medio,Precio medio
+Anjor S.A.,SHELL,San Isidro,Acassuso,Avenida Del Libertador Generalral San Martin 15300,-34.474121,-58.501896,2219.0,2509.0,2026-10,2219.0,Precio medio,Precio medio
+Anjor S.A.,SHELL,San Isidro,San Isidro,Av. Sir Alexander Fleming 802,-34.489862,-58.524312,2219.0,2509.0,2026-10,2219.0,Precio medio,Precio medio
+Anjor S.A.,SHELL,San Isidro,San Isidro,Bernabe Marquez 2984,-34.49434,-58.55147,2219.0,2509.0,2026-10,2219.0,Precio medio,Precio medio
+Deheza Saicfei,SHELL,San Isidro,Acassuso,Avenida Santa Fé 960,-34.481497,-58.505657,2219.0,2509.0,2026-10,2219.0,Precio medio,Precio medio
+Norest S.R.L,SHELL,San Isidro,Martinez,Av Santa Fe 1920,-34.48871,-58.50065,2219.0,2509.0,2026-10,2219.0,Precio medio,Precio medio
+Rolgui S.A.,SHELL,San Isidro,Beccar,Av. Andres Rolon 2287,-34.4649,-58.544398,2219.0,2509.0,2026-10,2219.0,Precio medio,Precio medio
+Proyectos Sustentables S.A.,YPF,Tigre,Don Torcuato,Ruta 202 Y Colectora Este Panameriacana (Don Torcuato) 25903,-34.48466,-58.61433,2117.0,2316.0,2026-09,2117.0,Barata,Barata
+Dual Tigre Sa,PUMA,Tigre,Tigre,Acceso Tigre Y Larralde -,-34.44075,-58.58157,2175.0,2482.0,2026-10,2175.0,Barata,Barata
+197 Combustibles Srl,PUMA,Tigre,El Talar,Hipolito Iriyoyen 2688,-34.47597,-58.66318,2226.0,2512.0,2026-10,2226.0,Cara,Cara
+Cazón Srl,PUMA,Tigre,Tigre,Cazon 585,-34.43028,-58.57079,2227.0,2518.0,2026-10,2227.0,Cara,Cara
+Refineria Bahia Blanca S.A.U.,PUMA,Tigre,Tigre,De Los Lagos 7180,-34.39814,-58.65099,2227.0,2518.0,2026-10,2227.0,Cara,Cara
+Deheza S.A.I.C.F.I,SHELL,Tigre,Tigre,Acceso Norte R. Tigre Km 26.44,-34.44869,-58.57722,2232.0,2520.0,2026-09,2232.0,Cara,Cara
+Lubricantes Y Combustibles D´Atri Srl,AXION,Tigre,Benavidez,Agustin M Garcia 9647,-34.39271,-58.663366,2249.0,2539.0,2026-09,2249.0,Cara,Cara
+Lubricantes Y Combustibles D´Atri Srl,AXION,Tigre,Gral. Pacheco,Av Hipolito Yrigoyen 446,-34.45721,-58.62828,2249.0,2529.0,2026-09,2249.0,Cara,Cara
+Lfs Combustibles S.A,AXION,Tigre,Tigre,Av. Angel T. De Alvear 3217,-34.484884,-58.613523,2259.0,2579.0,2026-09,2259.0,Cara,Cara
+Distriben S.A.,SHELL,Tigre,Benavidez,Ruta 9 Km 38.200 0,-34.413758,-58.701735,2269.0,2567.0,2026-10,2269.0,Cara,Cara
+Econorte-2 S.A.,SHELL,Tigre,Tigre,Dean Funes 5100,-34.391446,-58.715183,2269.0,2567.0,2026-10,2269.0,Cara,Cara
+Emeco S.A.,SHELL,Tigre,Don Torcuato,Av. Angel Torcuato De Alvear 2704,-34.487324,-58.619184,2269.0,2567.0,2026-10,2269.0,Cara,Cara
+Gnc Pacheco S.R.L.,SHELL,Tigre,Gral. Pacheco,Ruta 9 Km 617,-34.454273,-58.640902,2269.0,2567.0,2026-10,2269.0,Cara,Cara
+Lopema S.A.,SHELL,Tigre,Tigre,Ruta 197 E Italia - El Talar,-34.473661,-58.659844,2269.0,2567.0,2026-10,2269.0,Cara,Cara
+Rtr S.A.,SHELL,Tigre,Benavidez,Avenida Juan Domingo Peron 6785,-34.413533,-58.701461,2269.0,2567.0,2026-10,2269.0,Cara,Cara
+Comercial Delta S.A.,YPF,Tigre,Tigre,Rio Lujan 2390,-34.420075,-58.561476,2499.0,2744.0,2026-10,2499.0,Cara,Cara
+Tore S.A.,SHELL,Vicente López,Florida,Av. Mitre 901,-34.541403,-58.505795,2109.0,2389.0,2026-05,2109.0,Barata,Barata
+Fenix Energia Srl,AXION,Vicente López,Olivos,Parana 3944 Esq Blas Parera,-34.510049,-58.524386,2145.0,2499.0,2026-09,2145.0,Barata,Precio medio
+Combustible Munro S.R.L.,DAPSA,Vicente López,Munro,Av. Velez Sarsfield 5420,-34.53401,-58.5319,2150.0,2405.0,2026-09,2150.0,Barata,Barata
+Gasko Sa,PUMA,Vicente López,Florida,Av San Martín 5095 -,-34.54487,-58.52652,2169.0,2465.0,2026-10,2169.0,Barata,Barata
+Supermercados Mayoristas Makro S.A.,PUMA,Vicente López,Munro,Esteban Echeverria 2870,-34.5215,-58.51331,2169.0,2465.0,2026-10,2169.0,Barata,Barata
+Petro Energia Sa,PUMA,Vicente López,Vicente Lopez,Avda Del Libertador 302 Y Laprida,-34.53165,-58.46892,2169.0,2465.0,2026-09,2169.0,Barata,Barata
+Mitre 1630 Srl,AXION,Vicente López,Florida,Av. Bartolomé Mitre 1630,-34.534882,-58.509322,2199.0,2499.0,2026-09,2199.0,Precio medio,Precio medio
+"Pan American Energy Llc, Sucursal Argentina",AXION,Vicente López,Olivos,Av Del Libertador 2376 (Esq. Corrientes),-34.508622,-58.479558,2199.0,2499.0,2026-09,2199.0,Precio medio,Precio medio
+"Pan American Energy Llc, Sucursal Argentina",AXION,Vicente López,Vicente Lopez,Av. Libertador 299 (Esq. Laprida),-34.53165,-58.46892,2199.0,2499.0,2026-09,2199.0,Precio medio,Precio medio
+"Pan American Energy Llc, Sucursal Argentina",AXION,Vicente López,Vicente Lopez,Av. Maipú 1055 (Esq. Federico Bardi),-34.528166,-58.480985,2199.0,2499.0,2026-09,2199.0,Precio medio,Precio medio
+Dual Center Group S.A.,SHELL,Vicente López,Munro,Parana 4106,-34.51097,-58.52614,2219.0,2509.0,2026-10,2219.0,Precio medio,Precio medio
+La Panamericana Sca,SHELL,Vicente López,Vicente Lopez,Av. San Martin 3099,-34.533074,-58.502967,2219.0,2509.0,2026-10,2219.0,Precio medio,Precio medio
+Norest S.R.L,SHELL,Vicente López,Olivos,Av.Maipu 3604,-34.50259,-58.49553,2219.0,2509.0,2026-10,2219.0,Precio medio,Precio medio
